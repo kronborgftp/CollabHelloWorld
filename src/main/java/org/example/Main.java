@@ -8,6 +8,10 @@ public class Main {
         System.out.println("Goodbyeeee");
         System.out.println("gsfgsfgdf");
         System.out.println("fsdfsdfsdfdsf");
+        System.out.println("print linje");
+        System.out.println("Hej igen");
+        System.out.println("ngwion");
+
 
     }
 }
