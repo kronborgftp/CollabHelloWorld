@@ -14,6 +14,7 @@ public class Main {
         System.out.println("print linje");
         System.out.println("Hej igen");
         System.out.println("ngwion");
+        System.out.println("hi");
 
 
     }
